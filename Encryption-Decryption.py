@@ -26,7 +26,7 @@ f1.pack(side=LEFT)
 
 
 lblInfo = Label(Tops, font=('helvetica', 50, 'bold'),
-                text="SECRET MESSAGING \n Niv Doshi and Aaryan Shah",
+                text="SECRET MESSAGING ",
                 fg="Black", bd=10, anchor='w')
 
 lblInfo.grid(row=0, column=0)
